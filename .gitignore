@@ -1,0 +1,28 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+__pycache__/
+*.pyc
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
